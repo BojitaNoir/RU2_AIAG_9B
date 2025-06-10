@@ -1,4 +1,6 @@
 Parrafo 1 en main a2
 
+Parrafo 1 en user1 a2
+Parrafo 2 en user1 a2
 Parrafo 1 en user2
 Parrafo 2 en user2
