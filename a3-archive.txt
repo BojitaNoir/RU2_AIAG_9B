@@ -1,3 +1,6 @@
 Archivo 3 en a3-main
 
+Parrafo 1 de a3-user1
+Parrafo 2 de a3-user1
+Parrafo 3 de a3-user1
 Parrafo 1 de a3-user3
